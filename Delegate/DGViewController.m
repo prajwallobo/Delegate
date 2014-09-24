@@ -45,7 +45,7 @@
         DGShapes *dgshp1 = [[[DGShapes alloc]init] autorelease];
         
         float result=dgshp->lenght * dgshp->width;
-        NSLog(@"Area of the rectangle :%f",result);
+        NSLog(@"Area of the rectangle  is found to :%f",result);
         
         NSLog(@"Pool name : %@", dgshp1);
         
